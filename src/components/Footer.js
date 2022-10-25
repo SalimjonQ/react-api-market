@@ -4,8 +4,8 @@ function Footer() {
       <div className="footer-copyright">
         <div className="container">
           © {new Date().getFullYear()} Copyright Text
-          <a className="grey-text text-lighten-4 right" href="#">
-            REPO
+          <a className="grey-text text-lighten-4 right" href="https://hadith-api-khalilov.netlify.app">
+            Hadith API
           </a>
         </div>
       </div>

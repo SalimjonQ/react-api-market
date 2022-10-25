@@ -3,11 +3,11 @@ function Header() {
     <nav className="cyan lighten-1">
       <div className="nav-wrapper">
         <a href="#" className="brand-logo">
-          React Shop
+          Khalilov
         </a>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
-            <a href="#">REPO</a>
+            <a href="https://hadith-api-khalilov.netlify.app">Hadith API</a>
           </li>
         </ul>
       </div>
